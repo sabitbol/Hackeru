@@ -1,4 +1,4 @@
-# dnsfuzzer
+# My test scripts
 
 This is just a test of a few scripts.
 
