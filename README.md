@@ -1,12 +1,15 @@
-# My test scripts
+# All My study work
 
-This is just a test of a few scripts.
+This hackeru repository is strictly for educational purpeses.
 
-These scripts are using the socket and scapy Libraries of Python.
+Install a package:
+	sudo apt install <package name>
 
-How to install a Library:
+Install a Library:
 	pip install <Library name>
 
+Run a python script:
+	python <script name.py>
 
-How to run:
-	python <script name>
+Run a bash script:
+	./<script name.sh>
