@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE myxml [
+
+<!entity class1 "data">
+<!element reset (login,secret)>
+<!element login (#PCDATA)>
+<!element secret (#PCDATA)>
+]>
+
+
+	<reset>
+		<login>&class1;</login>
+		<secret>Any bugs?</secret>
+
+	</reset>

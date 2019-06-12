@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xmlonly SYSTEM "mydtd.dtd">
+<reset>
+	<login>&class1;</login>
+	<secret>Any bugs</secret>
+
+</reset>

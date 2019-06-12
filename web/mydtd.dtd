@@ -1,0 +1,6 @@
+<!DOCTYPE mydtd[
+<!ENTITY class1 "data">
+<!ELEMENT reset (login,secret)>
+<!ELEMENT login (#PCDATA)>
+<!ELEMENT secret (#PCDATA)>
+]>
