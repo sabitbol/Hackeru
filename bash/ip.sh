@@ -19,10 +19,11 @@ echo ""
 sleep 2
 echo "Checking your location..."
 country=`curl ifconfig.co/country`
+countiso=`curl ifconfig.co/country-iso`
 sleep 4
 echo ""
 echo "Done!"
 sleep 3
-echo "your internal ip address is" $intip, "your External ip address is" $extip "and your location is" $country.
+echo "your internal ip address is" $intip, "your External ip address is" $extip "and your location is" $country-$countiso
 sleep 2
 echo 'Have a good day!'
